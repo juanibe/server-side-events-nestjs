@@ -26,7 +26,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/sse-demo.git
+git clone https://github.com/juanibe/server-side-events-nestjs
 cd sse-demo/sse-demo
 Install dependencies:
 
